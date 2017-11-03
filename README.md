@@ -1,5 +1,5 @@
 # buck-CC-CV
-simple 160V/28V constant current/constant voltage DCDC converter
+160V/28V constant current/constant voltage DCDC converter
 meant for interfacing between a solar array and battery bus.
 
 navigation

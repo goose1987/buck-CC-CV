@@ -1,5 +1,5 @@
 [Format]      =  4.0
-[Frequency]   =  0
+[Frequency]   =  475000
 [Precision]   =  1e-008
 [MinAngle]    =  30
 [Depth]       =  18
@@ -174,7 +174,7 @@
 [CircuitProps]  = 2
   <BeginCircuit>
     <CircuitName> = "coil"
-    <TotalAmps_re> = 17
+    <TotalAmps_re> = 5
     <TotalAmps_im> = 0
     <CircuitType> = 1
   <EndCircuit>

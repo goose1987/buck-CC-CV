@@ -1,4 +1,6 @@
 # buck-CC-CV
+Hoang Pham
+
 160V/28V constant current/constant voltage DCDC converter
 meant for interfacing between a solar array and battery bus.
 
